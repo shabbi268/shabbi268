@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shabarish Kesa
-- 👀 I’m interested in solving problems through technology
+- 👀 I’m interested in solving problems using technology
 - 🌱 I’m currently learning NextJs, GraphQL and selenium web driver testing
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 Reach me at shabarish.shabbi@gmail.com
