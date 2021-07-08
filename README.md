@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shabarish Kesa
+- 👋 Hi, I’m Shabarish Kesa, Currently working as a Software Engineer at Predictronics Corp.
 - 👀 I’m interested in solving problems using technology
 - 🌱 I’m currently learning NextJs, GraphQL and selenium web driver testing
 - 💞️ I’m looking to collaborate on software development projects
