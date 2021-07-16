@@ -10,3 +10,5 @@ I am a Full-stack developer with expertise in frontend. I love working with vari
 shabbi268/shabbi268 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://app.daily.dev/K2513388"><img src="https://api.daily.dev/devcards/43b0e5887920437b801305f8093fdcc0.png?r=h0q" width="400" alt="Kesa Shabarish's Dev Card"/></a>
