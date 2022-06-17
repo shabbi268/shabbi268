@@ -7,6 +7,8 @@
 <p align="center">Creative and Enthusiastic <a href="https://www.slideshare.net/shabarishshabbi/shabarish-kesa-resumenew">full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
 excellent organizational skills, a clear understanding of frontend, backend, and project management. I have held responsible positions from the requirements stage to development and testing.</p>
 
+<p align="center">You can find my e-portfolio <a href="https://www.shabarishkesa.com/">here</a></p>
+
 - 👋 Hi, I’m Shabarish Kesa, Currently working as a Software Engineer at Predictronics Corp.
 - 👀 I’m interested in solving problems using technology
 - 🌱 I’m currently learning Docker, Compose, and Linux Server Management
