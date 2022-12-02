@@ -11,7 +11,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 - 👋 Hi, I’m Shabarish Kesa, Currently working as a Software Engineer at Predictronics Corp.
 - 👀 I’m interested in solving problems using technology
-- 🌱 I’m currently learning Docker, Compose, and Linux Server Management
+- 🌱 I’m currently working on migrating application from MongoDB to PostgreSQL.
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 Reach me at shabarish.shabbi@gmail.com
 
