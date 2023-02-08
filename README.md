@@ -4,8 +4,7 @@
 </div>
 
 
-<p align="center">Creative and Enthusiastic <a href="https://www.slideshare.net/shabarishshabbi/shabarish-kesa-resumenew" target="_blank">full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
-excellent organizational skills, a clear understanding of frontend, backend, and project management. I have held responsible positions from the requirements stage to development and testing.</p>
+<p align="center">Creative and Enthusiastic <a href="https://www.slideshare.net/shabarishshabbi/shabarish-kesa-resumenew" target="_blank">full stack web developer 👨‍💻 </a> with 5+ years of working experience in the software development life cycle using the agile methodology. I have held responsible positions from the requirements stage to development, maintainane and operations, systems support, devops, server management and testing.</p>
 
 <p align="center">You can find my e-portfolio <a href="https://www.shabarishkesa.com/">here</a></p>
 
