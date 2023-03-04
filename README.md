@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Shabarish Kesa, Currently working as a Software Engineer at Predictronics Corp.
 - 👀 I’m interested in solving problems using technology
-- 🌱 I’m currently working on migrating application from MongoDB to PostgreSQL.
+- 🌱 I’m currently working on migrating backend of node application from MongoDB to PostgreSQL.
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 Reach me at shabarish.shabbi@gmail.com
 
