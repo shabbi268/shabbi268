@@ -6,6 +6,8 @@
 
 <p align="center">Creative and Enthusiastic <a href="https://www.slideshare.net/shabarishshabbi/shabarish-kesa-resumenew" target="_blank">full stack web developer 👨‍💻 </a> with 5+ years of working experience in the software development life cycle using the agile methodology. I have held responsible positions from the requirements stage to development, maintainane and operations, systems support, devops, server management and testing.</p>
 
+<p align="center">Currently leading the redesign of the entire backend architecture for our web application. I am focused on migrating our database from MongoDB to PostgreSQL, which involves designing the database schema from scratch and analyzing the current database structure to establish new table relationships and also modifying the backend code to ensure compatibility with the new database, ensuring that our application's performance and efficiency are optimized for the new environment.</p>
+
 <p align="center">You can find my e-portfolio <a href="https://www.shabarishkesa.com/">here</a></p>
 
 - 👋 Hi, I’m Shabarish Kesa, Currently working as a Software Engineer at Predictronics Corp.
