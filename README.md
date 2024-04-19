@@ -21,15 +21,6 @@
 shabbi268/shabbi268 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div float="left">
- 
-<p align="center">
- <a href="https://app.daily.dev/shabarish"><img src="https://api.daily.dev/devcards/v2/hc0ghIQ0u.png?r=1py&type=wide" width="652" alt="Kesa Shabarish's Dev Card"/></a>
-</p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=shabbi268&count_private=true&theme=tokyonight&showicons=true" alt="shabbi268" /></p>
- 
- </div>
 
 ## Tech Stack
 <!-- BLOG-POST-LIST:START -->
@@ -60,3 +51,12 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div> 
 
+<div float="left">
+ 
+<p align="center">
+ <a href="https://app.daily.dev/shabarish"><img src="https://api.daily.dev/devcards/v2/hc0ghIQ0u.png?r=1py&type=wide" width="652" alt="Kesa Shabarish's Dev Card"/></a>
+</p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=shabbi268&count_private=true&theme=tokyonight&showicons=true" alt="shabbi268" /></p>
+ 
+ </div>
